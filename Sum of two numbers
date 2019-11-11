@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conil.h>
+Void main()
+{
+Int a,b,c;
+Clrscr();
+Printf("enter two number A and B);
+Printf("%d %d , &a,&b);
+C=a+b;
+Printf("the sum of %d and %d is=%d ,c);
+getch();
+}
